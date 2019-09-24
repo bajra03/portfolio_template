@@ -5,6 +5,7 @@ body{
   padding: 0;
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
+  background-color: #ecf0f1;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -13,5 +14,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #container{
-  background-color: #19B5FE;
+  background-color: #fff;
+  margin: 0 auto;
+  width: 1024px;
 }
